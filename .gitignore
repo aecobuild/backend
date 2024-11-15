@@ -1,0 +1,47 @@
+# Python related
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.so
+
+# Django related
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.sqlite3-journal
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Docker related
+docker-compose.override.yml
+.docker/
+docker-compose.yml
+Dockerfile
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Coverage reports (useful for testing)
+.coverage
+*.coveragerc
+nosetests.xml
+coverage.xml
+*.cover
