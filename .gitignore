@@ -24,11 +24,7 @@ venv/
 .env/
 .venv/
 
-# Docker related
-docker-compose.override.yml
-.docker/
-docker-compose.yml
-Dockerfile
+
 
 # System files
 .DS_Store
